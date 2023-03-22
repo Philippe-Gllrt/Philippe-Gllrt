@@ -3,7 +3,7 @@
 <p> I am a junior Web Developer, living in Ionnania, Greece, but this might have changed when you are reading this 🌍✈ </p>
 
 - 🌱 I’m currently learning React and improving my skills on Ruby on Rails, CSS and Javascript.
-- 🔭 I’m currently working on personnal projects to illustrate my skills, soon to be released !
+- 🔭 I’m working on personnal projects to illustrate my skills, soon to be released !
 - 👯 I’m looking to collaborate on new web development projects
 - 📄 Know more about my experiences https://www.linkedin.com/in/philippe-goulliart/
 
