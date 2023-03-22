@@ -1,6 +1,6 @@
 ### Hi, I'm Philippe 🖖
 
-<p> I am a junior Web Developer, living in Ionnania, Greece, but this might have changed when you are reading this 🌍✈ </p>
+<p> I am a junior Web Developer, living in Ionnina, Greece, but this might have changed when you are reading this 🌍✈ </p>
 
 - 🌱 I’m currently learning React and improving my skills on Ruby on Rails, CSS and Javascript.
 - 🔭 I’m working on personnal projects to illustrate my skills, soon to be released !
