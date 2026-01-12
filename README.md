@@ -11,7 +11,7 @@
 ```javascript
 const philippeGoulliart = {
   lookingForMission: true,
-  education: "Le Wagon Lille, a 9-week full-time intensive coding bootcamp",
+  awards: [["GSAP Showcase SOTD", "MadeByReckless"]],
   otherAlias: "Webflow Creative Developer",
   codesIn: ["HTML", "CSS", "JS", "JQUERY", "GSAP"],
   currentlylearning: ["Three.js"],
